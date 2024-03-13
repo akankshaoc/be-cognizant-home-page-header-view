@@ -1,0 +1,780 @@
+[
+    {
+        "text": "be.cognizant",
+        "link": "https://cognizantonline.sharepoint.com/sites/Be.Cognizant/SitePages/Home.aspx",
+        "subMenuItems": []
+    },
+    {
+        "text": "Associate Directory",
+        "link": "https://cognizantonline.sharepoint.com/sites/Be.Cognizant/_layouts/15/search.aspx/people?",
+        "subMenuItems": []
+    },
+    {
+        "text": "Company\n",
+        "link": "+buttonmenu",
+        "subMenuItems": [
+            {
+                "text": "About Cognizant",
+                "link": "https://www.cognizant.com/us/en",
+                "subMenuItems": []
+            },
+            {
+                "text": "Acronyms",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Acronyms.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Bluebolt",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Bluebolt.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Brand Resources",
+                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Brand-Resources.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Environmental Social Governance",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Environmental-Social-Governance.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Executive Committee",
+                "link": "https://www.cognizant.com/us/en/about-cognizant/corporate-governance/leadership-team",
+                "subMenuItems": []
+            },
+            {
+                "text": "Executive Assistants",
+                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Executive-Assistants.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "The Cognizant Agenda",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Cognizant-Agenda.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Ravi Kumar S: A Journey of Growth",
+                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Our-growth-mindset.aspx",
+                "subMenuItems": []
+            }
+        ]
+    },
+    {
+        "text": "Service Lines\n",
+        "link": "+buttonmenu",
+        "subMenuItems": [
+            {
+                "text": "Service Lines Home",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Service-Lines.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Core Technologies & Insights (CT&I)\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Core-Technology.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Artificial Intelligence & Analytics (AI&A)",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/AIA.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Internet of Things (IoT)",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Internet-of-Things-(IoT).aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Cloud, Infrastructure & Security (CIS)",
+                        "link": "https://www.cognizant.com/us/en/services/cloud-solutions",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Sustainability Services",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Sustainability-Services(1).aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            },
+            {
+                "text": "Enterprise Platform Services (EPS)",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/EPS.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Industry Solutions Group (ISG)",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/industry_solutions_group.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Intuitive Operations & Automation (IOA)",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/IOA.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Software & Platform Engineering (SPE)\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/SPE.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Application Development & Management (ADM)",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Application-Development-and-Management-(ADM).aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Digital Experience (DX)",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/DX.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Digital Engineering (DE)",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/DE.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Quality Engineering & Assurance (QEA)",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/QEA.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            },
+            {
+                "text": "Enablement: Application Lifecycle Management",
+                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Application-Lifecycle-Management.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Enablement: Project & Program Management",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Global-Program-Management.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Enablement: Delivery Excellence",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Delivery-Excellence.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Enablement: Global Solution Architecture (GSA)",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Global-Solution-Architecture-(GSA).aspx",
+                "subMenuItems": []
+            }
+        ]
+    },
+    {
+        "text": "Sales Resources\n",
+        "link": "+buttonmenu",
+        "subMenuItems": [
+            {
+                "text": "Case Studies",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Case-Studies.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Global Partner Ecosystem",
+                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Key-to-Unlocking-Digital-Growth.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Global Sales and Consulting Education",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Global-Sales-and-Consulting-Education.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Global Sales Operations",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Global-Sales-Operations.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "What We Sell",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/What-We-Sell.aspx",
+                "subMenuItems": []
+            }
+        ]
+    },
+    {
+        "text": "Markets and Countries\n",
+        "link": "+buttonmenu",
+        "subMenuItems": [
+            {
+                "text": "Americas\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Americas.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Countries\n",
+                        "link": null,
+                        "subMenuItems": [
+                            {
+                                "text": "Argentina",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Argentina.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Brazil",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Brazil.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Canada",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Canada.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Chile",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Chile.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Colombia",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Colombia.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Costa Rica",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Costa-Rica.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Mexico",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Mexico.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "United States of America",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/United-States-of-America.aspx",
+                                "subMenuItems": []
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Products and Resources (P&R)",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Products-and-Resources-(P&R).aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Commercial Operations",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Commercial%20Operations.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            },
+            {
+                "text": "Asia Pacific and Japan\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Asia-Pacific-and-Japan.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Australia",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Australia.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "China",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/China.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Hong Kong",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Hong-Kong.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Indonesia",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Indonesia.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Japan",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/japan.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Malaysia",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Malaysia.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "New Zealand",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/New-Zealand.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Philippines",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Philippines.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Singapore",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Singapore.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "South Korea",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/South-Korea.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            },
+            {
+                "text": "Europe, the Middle East and Africa\n",
+                "link": "https://cognizantonline.sharepoint.com/:u:/r/sites/Business/SitePages/Europe,-the-Middle-East-and-Africa.aspx?csf=1&web=1&e=0brc4t",
+                "subMenuItems": [
+                    {
+                        "text": "Countries (EMEA)\n",
+                        "link": null,
+                        "subMenuItems": [
+                            {
+                                "text": "Belgium",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Belgium.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Bulgaria",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Bulgaria.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Czech Republic",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Czech-Re.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Denmark",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Denmark.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Finland",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Finland.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "France",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/France.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Germany",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Germany.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Hungary",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Hungary.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Italy",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Italy.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Lithuania",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Lithuania.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Latvia",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Latvia.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Netherlands",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Netherlands.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Norway",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Norway.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Portugal",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Portugal.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Poland",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Poland.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Qatar",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Qatar.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Saudi Arabia",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Saudi-Arabia.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Spain",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Spain.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Sweden",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Sweden.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Switzerland",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Switzerland.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "United Arab Emirates",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/United-Arab-Emirates.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "United Kingdom and Ireland",
+                                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/United-Kingdom-and-Ireland.aspx",
+                                "subMenuItems": []
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Central Europe Deal Management",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Deal-M.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            },
+            {
+                "text": "Consulting",
+                "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Consulting.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "India",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/India.aspx",
+                "subMenuItems": []
+            }
+        ]
+    },
+    {
+        "text": "Corporate Functions\n",
+        "link": "+buttonmenu",
+        "subMenuItems": [
+            {
+                "text": "Finance\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Finance.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Client Audit Management (CAM)",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Client-Audit-Management-(CAM).aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Client Scorecard",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Client-Scorecard.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Corporate Development",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Corporate-Development.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Competitive and Market Intelligence",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Competitive-and-Market-Intell.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Corporate Strategy",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Corporate-Strat.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Finance Academy",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Finance-Academy.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Finance Global Procedures and Policies",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Finance-Global-Procedures-and-Policies.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Global Pricing",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/Global-Pricing.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Project Cost Baseline",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Project-Cost-Baseline.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Travel and Expense",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Travel-and-Expense.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            },
+            {
+                "text": "Human Resources",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/People.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Legal & Corporate Affairs\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Legal-Corporate-Affairs.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Global Legal",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Global-Legal.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Ethics and Compliance",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Ethics-and-Compliance.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Global Corporate Policies",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Global-Corporate-Policies.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Global Privacy",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Global-Privacy.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Procurement",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Procurement.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Corporate Real-Estate Workplace Services\n",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Corporate-Real-Estate-Workplace-Ser.aspx",
+                        "subMenuItems": [
+                            {
+                                "text": "Global Environment Health and Safety",
+                                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Global-EHS.aspx",
+                                "subMenuItems": []
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Contract Lifecycle Risk Management\n",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Contract-Lifecycle-Risk-Management.aspx",
+                        "subMenuItems": [
+                            {
+                                "text": "CWW Contracting Assurance and Signature",
+                                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/CWW-Contracting-Assurance-and-Signature.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Dedicated Contract Commercial Management",
+                                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Dedicated-Contract-Commercial-Management.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "MyContracts",
+                                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/MyContracts.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Risk Based Contracting",
+                                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Risk-Based-Contracting.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "SOW Support Center",
+                                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/SOW%20Support%20Center.aspx",
+                                "subMenuItems": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "Marketing\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Global-Marketing.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Analyst Relations",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Analyst-Relations.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Brand, Thought Leadership & Digital Marketing",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Brand-Thought-Leadership-&-Digital-Marketing.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Brand Resources",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Brand-Resources.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Client Experience\n",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Client-Experience.aspx",
+                        "subMenuItems": [
+                            {
+                                "text": "Client Advocacy",
+                                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Client-Advocacy.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Client Briefings",
+                                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Client-Briefings.aspx",
+                                "subMenuItems": []
+                            },
+                            {
+                                "text": "Client Insights",
+                                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Client-Insights.aspx",
+                                "subMenuItems": []
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Cognizant Research",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Cognizant-Research.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Communications",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Global-Communications.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Events and Sponsorships",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Events-and-Sponsorships.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "GGM Field Marketing",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/GGM-Field-Marketing.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Martech",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Martech.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Social Media",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Social-Media.aspx?OR=Teams-HL&CT=1686929344706&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA1MDEwMDQyMiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "World Economic Forum",
+                        "link": "https://cognizantonline.sharepoint.com/sites/Business/SitePages/World-Economic-Forum.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            },
+            {
+                "text": "Security and Technology\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Strategy-and-Technology.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "IT",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/IT.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Corporate Security",
+                        "link": "https://cognizantonline.sharepoint.com/sites/CorporateFunctions/SitePages/Corporate-Security.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "People\n",
+        "link": "+buttonmenu",
+        "subMenuItems": [
+            {
+                "text": "People Home",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/People.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Careers\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Careers-Home.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Internal Job Moves",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Internal-Job-Moves.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Performance Management",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Performance-Management.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            },
+            {
+                "text": "Diversity and Inclusion\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Diversity-&-Inclusion.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Affinity Groups & Councils",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Global-Affinity-Groups.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            },
+            {
+                "text": "Global Mobility",
+                "link": "https://cognizantonline.sharepoint.com/sites/globalmobility",
+                "subMenuItems": []
+            },
+            {
+                "text": "Learning and Development",
+                "link": "https://cognizantonline.sharepoint.com/sites/LearningAndDevelopment/SitePages/Home.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Onboarding",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Onboarding.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Outreach Volunteer Program",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Outreach.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "People Leader Hub",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/People-Leader-Hub.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "People Policies",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Global-HR-Policies.aspx",
+                "subMenuItems": []
+            },
+            {
+                "text": "Rewards, Life and Work\n",
+                "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Total-Rewards.aspx",
+                "subMenuItems": [
+                    {
+                        "text": "Benefits and Wellbeing",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Benefits-and-Wellbeing.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Holiday Schedules",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Holiday-Schedules.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Money",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Money.aspx",
+                        "subMenuItems": []
+                    },
+                    {
+                        "text": "Recognition (Cheers)",
+                        "link": "https://cognizantonline.sharepoint.com/sites/GlobalHR/SitePages/Cheers-Recognition-Program.aspx",
+                        "subMenuItems": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="11" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-13T12:13:51 IST" name="Suite" finished-at="2024-03-13T12:16:55 IST" duration-ms="184025">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.EthicsAndComplianceTest@323b36e0]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.NavigationTests@3ce1e309]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-03-13T12:13:51 IST" name="Navigation Test" finished-at="2024-03-13T12:16:55 IST" duration-ms="184025">
+      <class name="test_runner.NavigationTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:test_runner.NavigationTests@3ce1e309]" started-at="2024-03-13T12:13:36 IST" name="init" finished-at="2024-03-13T12:13:51 IST" duration-ms="14723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:test_runner.NavigationTests@3ce1e309]" started-at="2024-03-13T12:13:51 IST" name="setUpClass" finished-at="2024-03-13T12:13:54 IST" duration-ms="3541" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@37196d53]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.NavigationTests@3ce1e309]" started-at="2024-03-13T12:13:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-13T12:14:34 IST" duration-ms="39756" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Information Display"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Navigation"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.id: mectrl_main_body (tried for 2 second(s) with 500 milliseconds interval)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.80, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54807}, msedge: {msedgedriverVersion: 122.0.2365.80 (bfff41c27eb2..., userDataDir: C:\Windows\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54807/devtoo..., se:cdpVersion: 122.0.2365.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3532cedd06f98ce7f32cf669a2a96076]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: mectrl_main_body (tried for 2 second(s) with 500 milliseconds interval)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 122.0.2365.80, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:54807}, msedge: {msedgedriverVersion: 122.0.2365.80 (bfff41c27eb2..., userDataDir: C:\Windows\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54807/devtoo..., se:cdpVersion: 122.0.2365.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3532cedd06f98ce7f32cf669a2a96076
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at page_objects.Home.clickOnUserIcon(Home.java:81)
+at step_definations.Navigation.userClicksOnUserIcon(Navigation.java:55)
+at ✽.user clicks on user icon(file:///C:/Users/2308990/eclipse-workspace/be-cognizant-home-page-header-view/src/test/resources/features/Navigation.feature:8)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.NavigationTests@3ce1e309]" started-at="2024-03-13T12:14:34 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-13T12:16:33 IST" duration-ms="118583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Navigates Through Nav Bar"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Navigation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.NavigationTests@3ce1e309]" started-at="2024-03-13T12:16:33 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-13T12:16:33 IST" duration-ms="177" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User Navigates Through Nav Bar"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Navigation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test_runner.NavigationTests@3ce1e309]" started-at="2024-03-13T12:16:33 IST" name="tearDownClass" finished-at="2024-03-13T12:16:36 IST" duration-ms="2881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test_runner.NavigationTests@3ce1e309]" started-at="2024-03-13T12:16:55 IST" name="close" finished-at="2024-03-13T12:17:06 IST" duration-ms="11543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test_runner.NavigationTests -->
+      <class name="test_runner.EthicsAndComplianceTest">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:test_runner.EthicsAndComplianceTest@323b36e0]" started-at="2024-03-13T12:16:36 IST" name="setUpClass" finished-at="2024-03-13T12:16:36 IST" duration-ms="79" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@37196d53]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.EthicsAndComplianceTest@323b36e0]" started-at="2024-03-13T12:16:36 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-13T12:16:48 IST" duration-ms="11578" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User can navigate to Ethics & Compliance"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Ethics & Compliance"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.EthicsAndComplianceTest@323b36e0]" started-at="2024-03-13T12:16:48 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-13T12:16:52 IST" duration-ms="4251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["All Resource Links should work"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Ethics & Compliance"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.EthicsAndComplianceTest@323b36e0]" started-at="2024-03-13T12:16:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-13T12:16:52 IST" duration-ms="95" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["key focus areas listed"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Ethics & Compliance"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.EthicsAndComplianceTest@323b36e0]" started-at="2024-03-13T12:16:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-13T12:16:52 IST" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["key focus areas listed"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Ethics & Compliance"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.EthicsAndComplianceTest@323b36e0]" started-at="2024-03-13T12:16:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-13T12:16:52 IST" duration-ms="63" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["key focus areas listed"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Ethics & Compliance"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:test_runner.EthicsAndComplianceTest@323b36e0]" started-at="2024-03-13T12:16:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-13T12:16:52 IST" duration-ms="67" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["key focus areas listed"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Ethics & Compliance"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test_runner.EthicsAndComplianceTest@323b36e0]" started-at="2024-03-13T12:16:52 IST" name="tearDownClass" finished-at="2024-03-13T12:16:55 IST" duration-ms="2747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- test_runner.EthicsAndComplianceTest -->
+    </test> <!-- Navigation Test -->
+  </suite> <!-- Suite -->
+</testng-results>

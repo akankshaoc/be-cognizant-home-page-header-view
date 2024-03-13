@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Navigation Test(failed)">
+    <classes>
+      <class name="test_runner.NavigationTests">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="close"/>
+          <include name="runScenario" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- test_runner.NavigationTests -->
+    </classes>
+  </test> <!-- Navigation Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

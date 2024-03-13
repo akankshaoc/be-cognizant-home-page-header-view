@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Navigation Test">
+		<classes>
+			<class name="test_runner.NavigationTests" />
+			<class name="test_runner.EthicsAndComplianceTest" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
